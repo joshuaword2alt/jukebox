@@ -13,7 +13,7 @@ Code for "Jukebox: A Generative Model for Music"
 [Explorer](http://jukebox.openai.com/) 
 [Colab](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb) 
 [Discord](https://discord.com/invite/aEqXFN9amV) 
-[CraftMine](https://youtube.com/user/CraftMine1000) 
+[Youtube Not Mine](https://youtube.com/user/CraftMine1000) 
 
 # Install
 Install the conda package manager from https://docs.conda.io/en/latest/miniconda.html    
