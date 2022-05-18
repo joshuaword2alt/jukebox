@@ -11,7 +11,7 @@ Code for "Jukebox: A Generative Model for Music"
 # Video Examples
 [Broccaloo](https://www.youtube.com/c/Broccaloo)
 
-
+# About
 [Paper](https://arxiv.org/abs/2005.00341) 
 [Blog](https://openai.com/blog/jukebox) 
 [Explorer](http://jukebox.openai.com/) 
